@@ -1,0 +1,3 @@
+--require ts-node/register
+--extensions ts
+--watch-extensions ts
