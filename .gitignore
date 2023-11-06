@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# TypeScript build output
+dist/
+out/
+
+# Jest
+coverage/
+jest.config.js
+
+# Editor folders and files
+.vscode/
+*.swp
+*.swo
+*.idea/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
